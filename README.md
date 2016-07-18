@@ -1,2 +1,2 @@
 # hello-world
-my first git hub projec
+my first git hub project - edited
